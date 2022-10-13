@@ -7,7 +7,7 @@ spec:
   destination:
     namespace: argocd
     server: https://kubernetes.default.svc
-  project: icurity
+  project: test
   source:
     repoURL: https://github.com/Ganagouni/kongtest
     path: kong
