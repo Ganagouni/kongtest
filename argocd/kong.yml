@@ -9,8 +9,8 @@ spec:
     server: https://kubernetes.default.svc
   project: icurity
   source:
-    repoURL: https://github.com/Icurity/lab_devops
-    path: iac/helms/kong
+    repoURL: https://github.com/Ganagouni/kongtest
+    path: kong
     targetRevision: main
     helm:
       valueFiles:
