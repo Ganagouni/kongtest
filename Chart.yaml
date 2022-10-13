@@ -1,0 +1,10 @@
+apiVersion: v2
+description: The Cloud-Native Ingress and API-management
+engine: gotpl
+home: https://konghq.com/
+icon: https://s3.amazonaws.com/downloads.kong/universe/assets/icon-kong-inc-large.png
+name: kong
+sources:
+- https://github.com/Icurity/lab_devops/tree/main/iac/helms/kong
+version: 2.13.1
+appVersion: "3.0"
